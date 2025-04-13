@@ -1,3 +1,32 @@
+# 🎯 Behavior-Triggered Email – Awareness Campaign | Bagaggio
+
+This is a **responsive HTML email** built to educate customers about the different **materials used in Bagaggio’s luggage**. The goal of this campaign was not just to promote products, but to build brand trust through product knowledge.
+
+---
+
+## 🧠 Campaign Purpose
+
+- 💬 **Informational content**: Focused on educating users about suitcase materials like ABS and Polypropylene
+- 🎯 **Behavior-based trigger**: Sent to users who showed interest in product specs or FAQs
+- 🧳 **Product value positioning**: Highlights cost-benefit and durability of each material type
+- 📈 **Goal**: Drive traffic to product pages while improving brand authority and reducing customer hesitation
+
+---
+
+## 💻 Tech Stack
+
+- HTML (email-safe, table-based structure)
+- Inline CSS
+- Manual image slicing for compatibility
+- QA across Gmail, Outlook, and mobile devices
+
+---
+
+## 🖼️ Preview (Full Email Below 👇)
+
+> The entire email structure is embedded below, rendered directly for a full visual experience.
+
+
 <!-- ALL CONTAINER -->
 <table width="600" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody>
